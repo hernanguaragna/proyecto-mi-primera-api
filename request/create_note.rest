@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/notes/
+
+    
+    {
+    "title": "This is a note",
+{
+  
+
+    "content": "This is the content of the note"
+
+}
+}
