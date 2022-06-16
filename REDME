@@ -1,0 +1,49 @@
+
+WHAT I DID IN THIS API:
+
+ENGLISH DESCRIPTION -------------------------------------------------------------------------
+
+- Node.js REPLs
+- npm, the Node.js package manager
+- Create the server with Node.js
+- Installing nodemon
+- Use nodemon to automatically restart the server when a file is modified
+- Use Semantic Versioning for my API versions
+- Use a folder structure to organize my API
+- use Express for the server
+- Defined a route for the API and other API Status Codes
+- Added a DELETE to delete a task
+- Use Postman to test the API and its correct functioning.
+- REST Client Extension for Postman
+- Create a POST to create a new task.
+- Create a PUT to update a task.
+- Create a GET to get a task.
+- Create a GET to get all the tasks.
+- Create a GET to get a task by its ID.
+- Create a request folder to test with the Rest Client extension the GET, POST, PUT and DELETE without using Postman.
+
+DESCRIPCION EN ESPAÑOL-------------------------------------------------------------------------
+LO QUE REALICE EN ESTA API:
+
+- REPL de Node.js
+- npm, el administrador de paquetes de Node.js
+- Cree el servidor con Node.js
+- Instalando nodemon
+- Utilice nodemon para que el servidor se reinicie automáticamente cuando se modifique un archivo
+- Utilice Semantic Versioning para la versiones de mi API 
+- Utilice una estructura de carpetas para organizar mi API
+- utilice Express para el servidor
+- Defini una ruta para la API y otros Status Codes de la API
+- Añadi un DELETE para eliminar una tarea
+- Utilice Postman para probar la API y el correcto funcionamiento de la misma.
+- REST Client Extension para Postman
+- Cree un POST para crear una tarea nueva.
+- Cree un PUT para actualizar una tarea.
+- Cree un GET para obtener una tarea.
+- Cree un GET para obtener todas las tareas.
+- Cree un GET para obtener una tarea por su ID.
+- Cree una carpeta request para probar con la extension Rest Client el GET, POST, PUT y DELETE sin necesidad de utilizar Postman.
+
+
+
+ 
